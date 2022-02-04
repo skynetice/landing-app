@@ -27,7 +27,7 @@
       </div>
       <div class="flex items-center justify-center lg:w-1/2">
         <div class="w-5/12 -ml-16 lg:ml-64">
-          <img class="object-cover" src="https://kitwind.io/assets/kometa/two-girls-phone.png" alt="" />
+          <img class="object-cover" src="@/assets/mockup.png" alt="" />
         </div>
       </div>
     </div>
