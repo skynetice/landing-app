@@ -4,10 +4,6 @@
       <HeadTitle />
       <BodyFeature />
       <BodyDescTB />
-      <BodyDescOT />
-      <BodyTravelBuddy />
-      <BodyMakeTrip />
-      <BodyJoinTrip />
       <BodyCall />
       <Footer />
   </div>
@@ -18,7 +14,6 @@ import NavTop from '~/components/NavTop';
 import HeadTitle from '~/components/HeadTitle';
 import BodyFeature from '~/components/BodyFeature';
 import BodyDescTB from '~/components/BodyDescTB';
-import BodyDescOT from '~/components/BodyDescOT';
 import BodyBullet from '~/components/BodyTravelBuddy';
 import BodyMakeTrip from '~/components/BodyMakeTrip';
 import BodyJoinTrip from '~/components/BodyJoinTrip';

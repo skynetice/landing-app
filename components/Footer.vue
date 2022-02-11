@@ -1,7 +1,7 @@
 <template>
-  <div class="relative mt-16 bg-purple-tourgather">
-    <svg class="absolute top-0 w-full h-6 -mt-5 sm:-mt-10 sm:h-16 text-deep-purple-accent-400" preserveAspectRatio="none" viewBox="0 0 1440 54">
-      <path fill="#A352F5" d="M0 22L120 16.7C240 11 480 1.00001 720 0.700012C960 1.00001 1200 11 1320 16.7L1440 22V54H1320C1200 54 960 54 720 54C480 54 240 54 120 54H0V22Z"></path>
+  <div class="relative bg-gray-900">
+    <svg class="absolute top-0 w-full h-6 -mt-5 sm:-mt-10 sm:h-16 text-deep-purple-accent-400" preserveAspectRatio="none" viewBox="0 0 1440 54"><rect x="0" y="0" width="1440" height="54" fill="#a352f4"></rect>
+      <path fill="#212121" d="M0 22L120 16.7C240 11 480 1.00001 720 0.700012C960 1.00001 1200 11 1320 16.7L1440 22V54H1320C1200 54 960 54 720 54C480 54 240 54 120 54H0V22Z"></path>
     </svg>
     <div class="px-4 pt-12 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
       <div class="grid gap-16 row-gap-10 mb-8 lg:grid-cols-4">
@@ -10,7 +10,7 @@
             <img class="object-cover w-1/2" src="@/assets/tourgather-white.png" alt="">
           </a>
           <div class="mt-4 lg:max-w-sm">
-            <p class="text-sm text-deep-purple-50">
+            <p class="text-sm text-white">
               Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
             </p>
             <p class="mt-4 text-sm text-deep-purple-50">
@@ -20,7 +20,7 @@
         </div>
 
         <div class="mt-2 space-y-2">
-        <p class="font-semibold tracking-wide text-teal-accent-400">Contacts</p>
+        <p class="font-semibold tracking-wide text-purple-tourgather">Contacts</p>
         <div class="flex">
           <p class="text-deep-purple-50 mr-1">Phone: </p>
           <a href="tel:850-123-5021" title="Our phone" class="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"> 850-123-5021</a>
@@ -37,7 +37,7 @@
         </div>
         </div>
         <div>
-        <span class="font-semibold tracking-wide text-teal-accent-400">Social</span>
+        <span class="font-semibold tracking-wide text-purple-tourgather">Social</span>
         <div class="flex items-center mt-1 space-x-3">
           <a href="/" class="text-deep-purple-50 transition-colors duration-300 hover:text-teal-accent-400">
             <svg viewBox="0 0 24 24" fill="currentColor" class="h-5">
@@ -68,7 +68,7 @@
         </div>
         </div>
 
-      <div class="flex flex-col justify-between pt-5 pb-10 border-t border-deep-purple-accent-200 sm:flex-row">
+      <div class="flex flex-col justify-between pt-5 pb-10 border-t border-purple-tourgather sm:flex-row">
         <p class="text-sm text-gray-100">
           © Copyright 2020 Lorem Inc. All rights reserved.
         </p>

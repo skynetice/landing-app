@@ -225,6 +225,7 @@ module.exports = {
           'accent-200': '#eeff41',
           'accent-400': '#c6ff00',
           'accent-700': '#aeea00',
+          'tourgather': '#F0ede6',
         },
         amber: {
           50: '#fff8e1',

@@ -1,14 +1,13 @@
 <template>
+<div class="bg-purple-tourgather">
   <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
     <div class="max-w-lg sm:text-center sm:mx-auto">
       <a href="/" aria-label="Go Home" title="Logo" class="inline-block mb-4">
-        <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
-          <svg class="w-10 h-10 text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-            <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-          </svg>
+        <div class="flex items-center justify-center w-12 h-12 rounded-full">
+          <img class="object-cover" src="@/assets/logo_icon.png" alt="" />
         </div>
       </a>
-      <h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
+      <h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-white sm:text-4xl sm:leading-none">
         <span class="relative inline-block">
           <svg viewBox="0 0 52 24" fill="currentColor" class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-32 lg:-mt-10 sm:block">
             <defs>
@@ -18,7 +17,7 @@
             </defs>
             <rect fill="url(#6b0188f3-b7a1-4e9b-b95e-cad916bb3042)" width="52" height="24"></rect>
           </svg>
-          <span class="relative bg-white">Yuk</span>
+          <span class="relative bg-purple-tourgather">Yuk</span>
         </span>
         Daftar Sekarang !
       </h2>
@@ -39,6 +38,7 @@
       </p>
     </div>
   </div>
+</div>
 </template>
 
 <script>

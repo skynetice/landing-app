@@ -1,6 +1,7 @@
 <template>
+<div class="bg-lime-tourgather">
   <div id="feature" class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
-    <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
+    <div class="max-w-xl mt-10 mb-10 md:mx-auto text-center lg:max-w-2xl md:mb-12">
       <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
         <span class="relative inline-block">
           <svg viewBox="0 0 52 24" fill="currentColor" class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block">
@@ -21,19 +22,19 @@
       </p>
     </div>
     <div class="grid gap-8 row-gap-8 lg:grid-cols-3">
-      <div class="sm:text-center">
-        <div class="flex items-center justify-center w-24 h-24 mb-4 text-5xl font-extrabold rounded-full text-deep-purple-accent-400 bg-indigo-50 sm:mx-auto">
-          1
+      <div class="text-center">
+        <div class="flex items-center justify-center w-84 h-84 mb-4 text-5xl font-extrabold sm:mx-auto">
+          <img class="object-cover" src="@/assets/hand-phone.png" alt="" />
         </div>
-        <h6 class="mb-2 font-semibold leading-5">Rancang open trip mu sendiri</h6>
+        <h6 class="mb-2 font-semibold leading-5">Rancang dan buat Open Trip mu sendiri</h6>
         <p class="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">
           
         </p>
         
       </div>
-      <div class="sm:text-center">
-        <div class="flex items-center justify-center w-24 h-24 mb-4 text-5xl font-extrabold rounded-full text-deep-purple-accent-400 bg-indigo-50 sm:mx-auto">
-          2
+      <div class="text-center">
+        <div class="flex items-center justify-center w-84 h-84 mb-4 text-5xl font-extrabold sm:mx-auto">
+          <img class="object-cover" src="@/assets/guide.png" alt="" />
         </div>
         <h6 class="mb-2 font-semibold leading-5">Jadi travel buddy 
           <br> dan dapatkan uang tambahan</h6>
@@ -42,11 +43,11 @@
         </p>
         
       </div>
-      <div class="sm:text-center">
-        <div class="flex items-center justify-center w-24 h-24 mb-4 text-5xl font-extrabold rounded-full text-deep-purple-accent-400 bg-indigo-50 sm:mx-auto">
-          3
+      <div class="text-center">
+        <div class="flex items-center justify-center w-96 h-84 mb-4 text-5xl font-extrabold sm:mx-auto">
+          <img class="object-cover" src="@/assets/friend.png" alt="" />
         </div>
-        <h6 class="mb-2 font-semibold leading-5">Temukan teman baru 
+        <h6 class="mb-2 font-semibold leading-5">Ikuti Open Trip dan temukan teman baru 
           <br> untuk traveling bersama</h6>
         <p class="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">
           
@@ -55,6 +56,7 @@
       </div>
     </div>
   </div>
+</div>
 </template>
 
 <script>
