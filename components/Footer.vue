@@ -5,7 +5,7 @@
     </svg>
     <div class="px-4 pt-12 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
       <div class="grid gap-16 row-gap-10 mb-8 lg:grid-cols-4">
-        <div class="md:max-w-md lg:col-span-2">
+        <div class="items-center md:max-w-md lg:col-span-2 sm:items-start">
           <a href="/" aria-label="Go home" title="Company" class="inline-flex items-center">
             <img class="object-cover w-1/2" src="@/assets/tourgather-white.webp" alt="">
           </a>

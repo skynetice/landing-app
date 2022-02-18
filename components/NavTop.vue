@@ -10,7 +10,7 @@
         title="Tourgather"
         class="inline-flex items-center"
       >
-      <img class="object-cover w-1/6" src="@/assets/tourgather-white.webp" alt="">
+      <img class="object-cover w-1/3 lg:w-1/6" src="@/assets/tourgather-white.webp" alt="">
       </a>
       <ul class="flex items-center hidden space-x-8 lg:flex">
         <li>
@@ -75,7 +75,7 @@
           class="p-2 -mr-1 transition duration-200 rounded focus:outline-none focus:shadow-outline hover:bg-deep-purple-50 focus:bg-deep-purple-50"
           @click="isMenuOpen = true"
         >
-          <svg class="w-5 text-gray-600" viewBox="0 0 24 24">
+          <svg class="w-5 text-white" viewBox="0 0 24 24">
             <path
               fill="currentColor"
               d="M23,13H1c-0.6,0-1-0.4-1-1s0.4-1,1-1h22c0.6,0,1,0.4,1,1S23.6,13,23,13z"
