@@ -48,7 +48,7 @@
           <img class="object-cover" src="@/assets/friend.webp" alt="" />
         </div>
         <h6 class="mb-2 font-semibold leading-5">Ikuti Open Trip dan temukan teman baru 
-          <br> untuk traveling bersama</h6>
+          <br>untuk traveling bersama</h6>
         <p class="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">
           
         </p>

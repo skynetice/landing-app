@@ -7,12 +7,11 @@
       <div class="mb-16 lg:mb-0 lg:max-w-lg lg:pr-5 items-center ">
         <div class="max-w-xl mb-6 text-center lg:text-left">
           <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-            Temukan teman baru  <br class="hidden md:block" />
+            Temukan teman baru<br class="hidden md:block" />
             untuk traveling bareng kamu di 
             <span class="inline-block text-purple-tourgather">TOURGATHER</span>
           </h2>
           <p class="text-base text-gray-700 md:text-lg">
-            
           </p>
         </div>
         <div class="flex items-center justify-center lg:justify-start space-x-3">

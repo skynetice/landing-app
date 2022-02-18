@@ -25,7 +25,7 @@
       </div>
       <div class="lg:w-1/2 bg-purple-tourgather p-8 rounded-xl opacity-75">
         <p class="text-base text-white text-justify">
-          Open Trip adalah rencana perjalanan yang dapat kamu buat sendiri dan ingin mengajak orang lain untuk menjadi teman-teman traveling-mu. Kamu juga bisa bergabung dengan Open Trip yang dibuat oleh orang lain.
+          Open Trip adalah rencana perjalanan yang dapat kamu buat sendiri dan ingin mengajak orang lain untuk menjadi teman traveling-mu. Kamu juga bisa bergabung dengan Open Trip yang dibuat oleh orang lain.
         </p>
       </div>
     </div>

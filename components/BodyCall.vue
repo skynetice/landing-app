@@ -2,7 +2,7 @@
 <div class="bg-purple-tourgather">
   <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
     <div class="max-w-lg text-center mx-auto">
-      <a href="/" aria-label="Go Home" title="Logo" class="inline-block mb-4">
+      <a href="/" aria-label="Logo" title="Logo" class="inline-block mb-4">
         <div class="flex items-center justify-center w-12 h-12 rounded-full">
           <img class="object-cover" src="@/assets/logo_icon.webp" alt="" />
         </div>

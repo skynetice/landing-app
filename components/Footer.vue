@@ -67,7 +67,7 @@
 
       <div class="flex flex-col justify-between pt-5 pb-10 border-t border-purple-tourgather sm:flex-row">
         <p class="text-sm text-gray-100">
-          © Copyright 2020 Lorem Inc. All rights reserved.
+          © Copyright 2022
         </p>
        
       </div>
