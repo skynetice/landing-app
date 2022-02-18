@@ -22,19 +22,19 @@
       </p>
     </div>
     <div class="grid gap-8 row-gap-8 lg:grid-cols-3">
-      <div class="text-center">
-        <div class="flex items-center justify-center w-84 h-84 mb-4 text-5xl font-extrabold sm:mx-auto">
-          <img class="object-cover" src="@/assets/hand-phone.png" alt="" />
+      <div class="items-center">
+        <div class="flex items-center justify-center w-48 h-48 mx-auto lg:w-80 lg:h-80 ">
+          <img class="object-cover" src="@/assets/hand-phone.webp" alt="" />
         </div>
-        <h6 class="mb-2 font-semibold leading-5">Rancang dan buat Open Trip mu sendiri</h6>
+        <h6 class="mb-2 font-semibold leading-5 text-center">Rancang dan buat Open Trip mu sendiri</h6>
         <p class="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">
           
         </p>
         
       </div>
       <div class="text-center">
-        <div class="flex items-center justify-center w-84 h-84 mb-4 text-5xl font-extrabold sm:mx-auto">
-          <img class="object-cover" src="@/assets/guide.png" alt="" />
+        <div class="flex items-center justify-center w-48 h-48 mx-auto lg:w-80 lg:h-80">
+          <img class="object-cover" src="@/assets/guide.webp" alt="" />
         </div>
         <h6 class="mb-2 font-semibold leading-5">Jadi travel buddy 
           <br> dan dapatkan uang tambahan</h6>
@@ -44,8 +44,8 @@
         
       </div>
       <div class="text-center">
-        <div class="flex items-center justify-center w-96 h-84 mb-4 text-5xl font-extrabold sm:mx-auto">
-          <img class="object-cover" src="@/assets/friend.png" alt="" />
+        <div class="flex items-center justify-center w-48 h-48 mx-auto lg:w-80 lg:h-80">
+          <img class="object-cover" src="@/assets/friend.webp" alt="" />
         </div>
         <h6 class="mb-2 font-semibold leading-5">Ikuti Open Trip dan temukan teman baru 
           <br> untuk traveling bersama</h6>

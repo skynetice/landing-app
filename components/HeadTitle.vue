@@ -27,7 +27,7 @@
       </div>
       <div class="flex items-center justify-center lg:w-1/2">
         <div class="w-5/12  lg:ml-64">
-          <img class="object-cover" src="@/assets/phone.png" alt="" />
+          <img class="object-cover animate__animated animate__fadeInUp animate__slower" src="@/assets/phone.webp" alt="" />
         </div>
       </div>
     </div>

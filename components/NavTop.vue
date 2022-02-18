@@ -10,7 +10,7 @@
         title="Tourgather"
         class="inline-flex items-center"
       >
-      <img class="object-cover w-1/6" src="@/assets/tourgather-white.png" alt="">
+      <img class="object-cover w-1/6" src="@/assets/tourgather-white.webp" alt="">
       </a>
       <ul class="flex items-center hidden space-x-8 lg:flex">
         <li>

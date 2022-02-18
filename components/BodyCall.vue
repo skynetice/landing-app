@@ -4,7 +4,7 @@
     <div class="max-w-lg sm:text-center sm:mx-auto">
       <a href="/" aria-label="Go Home" title="Logo" class="inline-block mb-4">
         <div class="flex items-center justify-center w-12 h-12 rounded-full">
-          <img class="object-cover" src="@/assets/logo_icon.png" alt="" />
+          <img class="object-cover" src="@/assets/logo_icon.webp" alt="" />
         </div>
       </a>
       <h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-white sm:text-4xl sm:leading-none">

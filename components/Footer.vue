@@ -7,14 +7,11 @@
       <div class="grid gap-16 row-gap-10 mb-8 lg:grid-cols-4">
         <div class="md:max-w-md lg:col-span-2">
           <a href="/" aria-label="Go home" title="Company" class="inline-flex items-center">
-            <img class="object-cover w-1/2" src="@/assets/tourgather-white.png" alt="">
+            <img class="object-cover w-1/2" src="@/assets/tourgather-white.webp" alt="">
           </a>
           <div class="mt-4 lg:max-w-sm">
             <p class="text-sm text-white">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
-            </p>
-            <p class="mt-4 text-sm text-deep-purple-50">
-              Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+              
             </p>
           </div>
         </div>
@@ -23,16 +20,16 @@
         <p class="font-semibold tracking-wide text-purple-tourgather">Contacts</p>
         <div class="flex">
           <p class="text-deep-purple-50 mr-1">Phone: </p>
-          <a href="tel:850-123-5021" title="Our phone" class="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"> 850-123-5021</a>
+          <a href="tel:" title="Our phone" class="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"> </a>
         </div>
         <div class="flex">
           <p class="text-deep-purple-50 mr-1">Email:</p>
-          <a href="mailto:info@lorem.mail" aria-label="Our email" title="Our email" class="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400">info@lorem.mail</a>
+          <a href="mailto:" aria-label="Our email" title="Our email" class="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"></a>
         </div>
         <div class="flex">
           <p class="text-deep-purple-50 mr-1">Address:</p>
-          <a href="https://www.google.com/maps" target="_blank" rel="noopener noreferrer" aria-label="Our address" title="Our address" class="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400">
-            312 Lovely Street, NY
+          <a href="https:" target="_blank" rel="noopener noreferrer" aria-label="Our address" title="Our address" class="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400">
+            
           </a>
         </div>
         </div>
@@ -62,8 +59,8 @@
             </svg>
           </a>
         </div>
-        <p class="mt-2 space-y-2  text-deep-purple-50">
-          Bacon ipsum dolor amet short ribs pig sausage prosciutto chicken spare ribs salami.
+        <p class="mt-2 space-y-2  text-white">
+          
         </p>
         </div>
         </div>
